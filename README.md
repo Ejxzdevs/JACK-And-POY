@@ -26,7 +26,10 @@ To run this project locally, you first need to clone the repository from GitHub.
 
    ```bash
         git clone https://github.com/Ejxzdevs/Jack-N-Poy.git
+   
         cd Jack-N-Poy/src
+
         javac --release 8 Main.java
+        
         java Main
 
