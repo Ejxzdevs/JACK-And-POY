@@ -3,6 +3,7 @@
 ## Overview 📌
 "Jack & Poy Raise to 5" is a digital twist on the classic rock-paper-scissors game. Compete against the computer with the goal of reaching 5 wins first. Choose Rock, Paper, or Scissors and see who comes out on top in this fast-paced game!
 
+![Logo](overview.png)
 ## Features 📌
 - **Multiplayer**: Play against the computer in a fast-paced 1v1 format.
 - **Dynamic Round Tracking**: The game displays the current round and updates as players choose their actions.
