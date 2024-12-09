@@ -28,8 +28,8 @@ public class Main {
 
                 // Set the size of the Container
                 Container.setSize(width, height);
-                Container.setResizable(false); // Set the Container to be non-resizable
-                Container.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Set default close operation
+                Container.setResizable(true); 
+                Container.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
 
                 // Create main panel
                 JPanel mainPanel = new JPanel();
